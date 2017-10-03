@@ -15,11 +15,15 @@ These instructions will get you a copy of the project up and running on your loc
 * [Simple Form](http://www.rubydoc.info/github/plataformatec/simple_form/master/frames) - Simple Form aims to be as flexible as possible while helping you with powerful components to create your forms.
 * [RecordTagHelper](http://www.rubydoc.info/gems/record_tag_helper/1.0.0) - RecordTagHelper consists of code that was formerly a part of ActionView, but has been removed from core in Rails 5.te
 
+## Contributing
+
+* Tutorial de [Mackenzie Child](https://www.youtube.com/watch?v=7-1HCWbu7iU&index=1&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-) construido en Rails 4, y adaptado a Rails 5 por mi xD!.
+
 ## Versioning
 
 * Rails 5.1.4
 * Ruby  2.4.0
 
-## Contributing
+## URL
 
-* Tutorial de [Mackenzie Child](https://www.youtube.com/watch?v=7-1HCWbu7iU&index=1&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-) construido en Rails 4, y adaptado a Rails 5 por mi xD!.
+* url: [delapreddit](https://delapreddit.herokuapp.com) ^^! ... =^_^=
